@@ -13,6 +13,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2792-neighboring-bitwise-xor](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Union Find
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
@@ -99,4 +101,20 @@
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
