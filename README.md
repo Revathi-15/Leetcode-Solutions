@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [2685-first-completely-painted-row-or-column](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## String
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
