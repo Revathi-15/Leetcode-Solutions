@@ -85,5 +85,14 @@
 ## String
 |  |
 | ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
