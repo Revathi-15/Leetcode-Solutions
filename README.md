@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [1036-rotting-oranges](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1036-rotting-oranges](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
