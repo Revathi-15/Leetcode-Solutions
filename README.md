@@ -69,6 +69,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0155-min-stack](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -100,8 +102,13 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 ## Matrix
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
