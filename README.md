@@ -33,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
