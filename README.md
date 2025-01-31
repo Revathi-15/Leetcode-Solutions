@@ -61,6 +61,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0015-3sum) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
