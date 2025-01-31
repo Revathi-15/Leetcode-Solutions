@@ -58,6 +58,7 @@
 | [0141-linked-list-cycle](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -65,12 +66,14 @@
 | [0225-implement-stack-using-queues](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
