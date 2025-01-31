@@ -10,6 +10,7 @@
 | [0101-symmetric-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -39,6 +40,7 @@
 | [0002-add-two-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0155-min-stack) |
@@ -138,6 +141,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -152,6 +156,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
