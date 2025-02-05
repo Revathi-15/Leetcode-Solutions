@@ -78,6 +78,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,4 +178,8 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
