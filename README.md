@@ -78,6 +78,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1364-tuple-with-same-product](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
@@ -103,6 +104,7 @@
 | [0485-max-consecutive-ones](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1036-rotting-oranges](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
+| [1364-tuple-with-same-product](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
@@ -181,5 +183,6 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
