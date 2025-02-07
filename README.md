@@ -80,6 +80,7 @@
 | [0496-next-greater-element-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1364-tuple-with-same-product](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [1364-tuple-with-same-product](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -185,4 +187,8 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
