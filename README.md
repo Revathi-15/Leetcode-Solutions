@@ -18,4 +18,16 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
