@@ -51,6 +51,7 @@
 ## Database
 |  |
 | ------- |
+| [1317-monthly-transactions-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1317-monthly-transactions-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
