@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
 |  |
 | ------- |
@@ -57,4 +58,20 @@
 | [1317-monthly-transactions-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1317-monthly-transactions-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2087-confirmation-rate) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Matrix
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
