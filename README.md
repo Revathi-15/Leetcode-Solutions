@@ -9,12 +9,14 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Array
 |  |
 | ------- |
@@ -90,4 +93,12 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
