@@ -59,6 +59,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 | [1135-customers-who-bought-all-products](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1182-game-play-analysis-iv) |
