@@ -67,6 +67,7 @@
 | [1182-game-play-analysis-iv](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1317-monthly-transactions-i) |
+| [1801-average-time-of-process-per-machine](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2087-confirmation-rate) |
 ## Graph
