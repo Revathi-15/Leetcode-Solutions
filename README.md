@@ -16,6 +16,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
@@ -34,6 +35,7 @@
 | [1293-three-consecutive-odds](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Tree
@@ -86,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
 |  |
@@ -102,5 +105,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 <!---LeetCode Topics End-->
