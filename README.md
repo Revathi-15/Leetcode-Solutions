@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -96,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -111,4 +113,8 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
