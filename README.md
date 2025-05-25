@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -97,6 +98,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
@@ -123,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
