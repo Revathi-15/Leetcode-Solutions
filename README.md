@@ -7,6 +7,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1160-letter-tile-possibilities](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -46,6 +48,7 @@
 | [0075-sort-colors](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1293-three-consecutive-odds](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [2107-find-unique-binary-string](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -120,6 +123,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3647-zero-array-transformation-iii](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
