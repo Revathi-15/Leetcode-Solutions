@@ -4,9 +4,7 @@ public:
         int x=0,y=0;
         for(int i=1;i<=n;i++){
             if(i%m!=0) x+=i;
-        }
-        for(int i=1;i<=n;i++){
-            if(i%m==0) y+=i;
+            else y+=i;
         }
         return x-y;
     }
