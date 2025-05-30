@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 ## Graph
 |  |
 | ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
