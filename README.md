@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
@@ -23,4 +24,20 @@
 |  |
 | ------- |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
