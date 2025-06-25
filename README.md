@@ -7,6 +7,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Stack
 |  |
 | ------- |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
