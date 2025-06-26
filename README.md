@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
