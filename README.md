@@ -7,12 +7,14 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
