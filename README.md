@@ -62,4 +62,16 @@
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
