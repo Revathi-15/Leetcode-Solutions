@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Stack
 |  |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
