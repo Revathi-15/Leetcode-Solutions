@@ -8,6 +8,7 @@
 | [0039-combination-sum](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -66,6 +68,7 @@
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -74,9 +77,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0072-edit-distance) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
