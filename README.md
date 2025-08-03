@@ -12,6 +12,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0322-coin-change](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
@@ -45,10 +46,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +73,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +83,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -87,4 +92,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Revathi-15/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
